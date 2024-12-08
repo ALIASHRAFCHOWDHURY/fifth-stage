@@ -138,3 +138,4 @@ donationButton.addEventListener('click', function() {
 historyButton.addEventListener('click', function() {
   changeColor(historyButton);
 });
+
